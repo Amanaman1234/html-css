@@ -1,0 +1,31 @@
+h1,
+header,
+p,
+h2,
+a {
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  color: green;
+}
+h2 {
+  color: red;
+}
+#tekst {
+  font-size: 20px;
+  color: blue;
+}
+#links {
+  color: blue;
+}
+#hello {
+  color: green;
+  font-size: 20px;
+}
+img {
+  height: 200px;
+  width: auto;
+}
+h2 {
+  font-size: 75px;
+}
