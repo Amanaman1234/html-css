@@ -1,3 +1,11 @@
-ol {
-  color: blue;
+a:hover {
+  color: red;
+}
+
+#section {
+  text-align: center;
+  color: black;
+  background-color: red;
+  margin-left: 650px;
+  margin-right: 650px;
 }
