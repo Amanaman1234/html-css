@@ -1,0 +1,94 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#c {
+  position: absolute;
+  margin-left: 1010px;
+  top: 0px;
+  background-color: blueviolet;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 250px;
+  padding-right: 175px;
+}
+#b {
+  position: absolute;
+  margin-left: 460px;
+  top: 0px;
+  background-color: red;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+#a {
+  position: absolute;
+  margin-left: 0px;
+  top: 0px;
+  background-color: yellow;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+#f {
+  position: absolute;
+  margin-left: 1010px;
+  top: 235px;
+  background-color: purple;
+  padding-top: 115px;
+  padding-bottom: 115px;
+  padding-left: 285px;
+  padding-right: 175px;
+}
+#e {
+  position: absolute;
+  margin-left: 460px;
+  top: 235px;
+  background-color: white;
+  padding-top: 115px;
+  padding-bottom: 115px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+#d {
+  position: absolute;
+  margin-left: 0px;
+  top: 235px;
+  background-color: green;
+  padding-top: 115px;
+  padding-bottom: 115px;
+  padding-left: 225px;
+  padding-right: 250px;
+}
+#i {
+  position: absolute;
+  margin-left: 1010px;
+  top: 480px;
+  background-color: gold;
+  padding-top: 110px;
+  padding-bottom: 125px;
+  padding-left: 285px;
+  padding-right: 175px;
+}
+#h {
+  position: absolute;
+  margin-left: 460px;
+  top: 480px;
+  background-color: cyan;
+  padding-top: 110px;
+  padding-bottom: 125px;
+  padding-left: 240px;
+  padding-right: 215px;
+}
+#g {
+  position: absolute;
+  margin-left: 0px;
+  top: 480px;
+  background-color: grey;
+  padding-top: 110px;
+  padding-bottom: 125px;
+  padding-left: 200px;
+  padding-right: 175px;
+}
