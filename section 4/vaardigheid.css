@@ -1,0 +1,16 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+h1,
+p {
+  color: rgb(20, 168, 20);
+}
+.container {
+}
+h1 {
+  font-size: 20px;
+  font-weight: 1000;
+}
+p {
+  font-size: 16px;
+}

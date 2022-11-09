@@ -1,0 +1,12 @@
+#flat {
+  background-color: rgb(220, 238, 244);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 100px;
+  margin-right: 1000px;
+  border-bottom-color: rgb(158, 158, 211);
+  border-bottom-width: 10px;
+  border-bottom-style: solid;
+  border-radius: 20px;
+}
