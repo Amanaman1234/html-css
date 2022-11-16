@@ -1,0 +1,36 @@
+.grid {
+  font-family: sans-serif;
+  font-size: 20px;
+  margin: 40px;
+  padding-left: 10px;
+  background-color: #dddd;
+
+  display: grid;
+  grid-template-columns: 12% 12% 12% 12% 12% 12% 12% 7%;
+  gap: 15px;
+}
+
+.home {
+  background-color: green;
+}
+.tra {
+  background-color: yellow;
+}
+.con {
+  background-color: red;
+}
+.pro {
+  background-color: blue;
+}
+.tim {
+  background-color: green;
+}
+.her {
+  background-color: yellow;
+}
+.ov {
+  background-color: red;
+}
+.cont {
+  background-color: blue;
+}
