@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      *::before,
+      *,
+      *::after {
+        padding: 0;
+        margin: 0;
+        box-sizing: inherit;
+      }
+      html {
+        box-sizing: border-box;
+      }
+      .body-cont {
+        border: 5px black solid;
+        display: flex;
+        flex-direction: row;
+      }
+      .item {
+        border: 2px red dotted;
+        display: flex;
+      }
+      :first-child {
+        background-color: green;
+      }
+      :nth-child(2) {
+        background-color: yellow;
+      }
+      :nth-child(3) {
+        background-color: purple;
+      }
+      :nth-child(4) {
+        background-color: cyan;
+      }
+      :nth-child(5) {
+        background-color: green;
+      }
+      :nth-child(6) {
+        background-color: green;
+      }
+      :nth-child(7) {
+        background-color: purple;
+      }
+      :nth-child(8) {
+        background-color: yellow;
+      }
+      :nth-child(9) {
+        background-color: red;
+      }
+      :last-child {
+        background-color: blue;
+      }
+    </style>
+  </head>
+  <body class="body-cont">
+    <div class="item">a</div>
+    <div class="item">b</div>
+    <div class="item">c</div>
+    <div class="item">d</div>
+    <div class="item">e</div>
+    <div class="item">f</div>
+    <div class="item">g</div>
+    <div class="item">h</div>
+    <div class="item">i</div>
+    <div class="item">j</div>
+  </body>
+</html>

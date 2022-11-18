@@ -3,10 +3,11 @@
   font-size: 20px;
   margin: 40px;
   padding-left: 10px;
+  padding-right: 50px;
   background-color: #dddd;
 
   display: grid;
-  grid-template-columns: 12% 12% 12% 12% 12% 12% 12% 7%;
+  grid-template-columns: 25% 25% 25% 25%;
   gap: 15px;
 }
 
