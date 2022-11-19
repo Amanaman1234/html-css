@@ -16,3 +16,10 @@
   top: 75px;
   padding-bottom: 35px;
 }
+
+.a:hover {
+  text-transform: uppercase;
+}
+.b:hover {
+  text-transform: uppercase;
+}
