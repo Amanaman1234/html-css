@@ -21,3 +21,5 @@ h1 {
   gap: 30px;
   display: grid;
 }
+@media (max-width: 1200px;) {
+}

@@ -1,0 +1,18 @@
+.div {
+  width: 150px;
+  height: 150px;
+}
+.hoi {
+  font-size: 10px;
+  position: absolute;
+  background-color: green;
+  color: white;
+  top: 140px;
+  left: 105px;
+}
+.bille {
+  background-color: black;
+  position: absolute;
+  top: 75px;
+  padding-bottom: 35px;
+}
