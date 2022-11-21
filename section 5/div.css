@@ -18,8 +18,18 @@
 }
 
 .a:hover {
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 .b:hover {
-  text-transform: uppercase;
+  text-transform: lowercase;
+}
+.c:hover {
+  text-transform: lowercase;
+}
+.hello {
+  font-size: 30px;
+}
+.world:hover {
+  background-color: blue;
+  font-size: 30px;
 }
