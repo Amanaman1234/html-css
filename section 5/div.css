@@ -57,15 +57,16 @@
 }
 #groot {
   position: absolute;
-  top: 255px;
+  top: 260px;
   left: 935px;
   height: 250px;
   width: 295px;
 }
-.white {
+..showcase {
+  list-style: none;
+  width: 900px;
+}
+.tijgers2 {
   position: absolute;
-  top: 385px;
-  height: 123px;
-  width: 1225px;
-  background-color: white;
+  top: 350px;
 }
