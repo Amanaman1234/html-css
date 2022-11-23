@@ -62,11 +62,17 @@
   height: 250px;
   width: 295px;
 }
-..showcase {
+.showcase {
   list-style: none;
   width: 900px;
 }
 .tijgers2 {
   position: absolute;
   top: 350px;
+}
+.foto :hover {
+  transform: scale(1.2);
+}
+#groot:hover {
+  transform: scale(1.2);
 }
