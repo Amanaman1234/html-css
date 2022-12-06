@@ -22,6 +22,8 @@ body {
   background-size: cover;
 }
 .main {
+  animation-name: an;
+  animation-duration: 1s;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -39,4 +41,39 @@ body {
   font-size: 45px;
   display: block;
   letter-spacing: 20px;
+}
+@keyframes an {
+  0% {
+    translate: 300px;
+  }
+  10% {
+    translate: -300px;
+  }
+  20% {
+    translate: 300px;
+  }
+  30% {
+    translate: -300px;
+  }
+  40% {
+    translate: 300px;
+  }
+  50% {
+    translate: -300px;
+  }
+  60% {
+    translate: 300px;
+  }
+  70% {
+    translate: -300px;
+  }
+  80% {
+    translate: 300px;
+  }
+  90% {
+    translate: -300px;
+  }
+  100% {
+    translate: 0px;
+  }
 }
