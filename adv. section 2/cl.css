@@ -1,5 +1,5 @@
 .foto {
-  height: 95vh;
+  height: 100vh;
   background-image: url(./foto/416730387_750x422.jpg);
-  clip-path: polygon(0 0, 100% 14%, 100% 100%, 0% 100%);
+  clip-path: polygon(0 0, 100% 17%, 100% 100%, 0% 100%);
 }
