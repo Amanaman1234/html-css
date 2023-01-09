@@ -44,3 +44,10 @@
   border: 2px dotted blue;
   flex-direction: column;
 }
+.text {
+  display: flex;
+  margin: 1px 1px;
+}
+.text:first-child {
+  background-color: blue;
+}
