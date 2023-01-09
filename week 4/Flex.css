@@ -1,0 +1,46 @@
+.main {
+  display: flex;
+  justify-content: center;
+  height: 700px;
+  width: 1200;
+  background-color: burlywood;
+  flex-direction: column;
+}
+.titel {
+  margin-left: 650px;
+  font-size: 60px;
+}
+.border {
+  background-color: rgb(184, 184, 240);
+  margin-left: 50px;
+  display: flex;
+  height: 620px;
+  width: 1400px;
+  border: 3px dashed black;
+}
+.subBorder1 {
+  display: flex;
+  margin: 10px 10px;
+  height: 600px;
+  width: 675px;
+  border: 2px solid black;
+  flex-direction: column;
+}
+.subBorder2 {
+  display: flex;
+  margin: 10px 10px;
+  height: 600px;
+  width: 675px;
+  border: 2px solid black;
+  flex-direction: column;
+}
+.dotted {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 650px;
+  margin: 5px 5px;
+  border: 2px dotted blue;
+  flex-direction: column;
+}
