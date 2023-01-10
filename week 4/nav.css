@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  gap: 15px;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  max-width: 98%;
+  background-color: rgba(150, 171, 95, 0.641);
+  border: 5px solid gold;
+}
+.link {
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+  flex-basis: 24%;
+}
+.text {
+  display: flex;
+}
+@media (max-width: 500px) {
+  .main {
+    flex-direction: column;
+  }
+}
